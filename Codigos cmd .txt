@@ -1,0 +1,1 @@
+pyinstaller -F (mais compacto possivel) -i "Circ.ico" (Add icone) --windowed (iniciar sem console) circuitos2.py
